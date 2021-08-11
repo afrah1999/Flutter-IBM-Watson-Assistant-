@@ -1,0 +1,27 @@
+name: medium_watsonv2
+description: A new Flutter application.
+
+#
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  watson_assistant_v2: ^0.0.1
+  cupertino_icons: ^0.1.2
+  speech_to_text: ^4.2.2
+  flutter_tts: ^3.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+  uses-material-design: true
+
